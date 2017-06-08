@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Cores Basicas-->
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#5D4037</color>
+    <color name="colorPrimaryLight">#D7CCC8</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <!--Cores dos Textos-->
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+
+    <!--Cores dos Links-->
+    <color name="colorLinkDefault">#061479</color>
+    <color name="colorLinkFocused">#284b1a</color>
+    <color name="colorLinkPressed">#7fa87f</color>
+</resources>
