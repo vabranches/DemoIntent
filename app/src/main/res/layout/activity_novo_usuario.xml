@@ -16,11 +16,11 @@
         android:hint="@string/hint_username"
         android:id="@+id/etUsername"/>
 
-    <EditText style="@style/inputs_senha"
+    <EditText style="@style/inputs"
         android:hint="@string/hint_nome"
         android:id="@+id/etNome" />
 
-    <EditText style="@style/inputs"
+    <EditText style="@style/inputs_senha"
         android:hint="@string/hint_senha"
         android:id="@+id/etSenha" />
 

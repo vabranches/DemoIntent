@@ -1,8 +1,9 @@
 <resources>
-    <string name="app_name">DemoIntent</string>
+    <string name="app_name">Demo Intent</string>
     <string name="hint_username">Informe o username</string>
     <string name="hint_senha">Informe a senha</string>
     <string name="bt_conectar">Conectar</string>
     <string name="hint_nome">Informe seu nome</string>
     <string name="bt_criar">Criar</string>
+    <string name="text_novo_usuario">Sou um novo usuário</string>
 </resources>
